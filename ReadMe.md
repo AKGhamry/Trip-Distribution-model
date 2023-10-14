@@ -1,4 +1,4 @@
-#Trip Distribution model (Doubly Constrained Growth Factor model):
+# Trip Distribution model (Doubly Constrained Growth Factor model):
 
 This code is designed to Obtain Doubly Constrained Growth Factors A & B, It can Solve Matrices Up to dimension 10.
 
