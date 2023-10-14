@@ -14,5 +14,5 @@ steps to Calculate Doubly Constrained A B Factors:
 
 Thank you!
 
-***NOTE: This code can only print the output if file is closed otherwise error will be appeared.
+***NOTE: This code can only print the output if excel files is closed otherwise error will be appeared.
          O-D matrix should be 10x10.
