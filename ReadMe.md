@@ -2,7 +2,7 @@
 
 This code is designed to Obtain Doubly Constrained Growth Factors A & B, It can Solve Matrices Up to dimension 10.
 
-### steps to Calculate Doubly Constrained A B Factors:
+## Steps to Calculate Doubly Constrained A B Factors:
 
 1. Create and Open **InForTd.xlsx** And Submit your current trip matrix and Future Production And Attraction values.
 
